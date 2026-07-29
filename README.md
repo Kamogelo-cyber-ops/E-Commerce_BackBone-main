@@ -53,4 +53,4 @@ Ecommerce.Infrastructure/  # EF Core, migrations, repository implementations
 - Kamogelo Komane
 
 ---
-*Final year BSc IT project at North-West University.*
+
